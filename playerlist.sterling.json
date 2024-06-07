@@ -65,6 +65,19 @@
                 "playing with cheaters: https://www.youtube.com/watch?v=lJhUEA6b_qQ and in a bunch of other videos on that same channel"
             ],
             "steamid": "[U:1:115982075]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "yo",
+                "time": 1717729630
+            },
+                  "proof": [
+                "https://archive.is/MgwPK blatantly bypassing sv_pure and even different colours in scoreboard"
+            ],
+            "steamid": "[U:1:1316503064]"
         }
     ]
 }
