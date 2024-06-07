@@ -6,10 +6,7 @@
         ],
         "description": "The OFFICIAL East Coast cheater database!",
         "title": "sterling",
-        "update_url": "https://raw.githubusercontent.com/anaemicelle/tf2bd/main/playerlist.sterling.json"
     },
-
-
     "players": [
         {
             "attributes": [
