@@ -205,6 +205,45 @@
                 "Flagrantly cheating as pyro when we played against him: unparalleled reflect timing and going straight to people to kill them with no info and no reason to go to their positions"
             ],
             "steamid": "[U:1:232791099]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Pichu",
+                "time": 1719182983
+            },
+            "proof": [
+                "Automated anticheat ban and rage hacking in our game with FaN. Could not be any more obvious."
+            ],
+            "steamid": "[U:1:1622476470]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "minecraft steve",
+                "time": 1719183024
+            },
+            "proof": [
+                "Stacked with 76561199582742198; also rage hacking with an automated anticheat ban."
+            ],
+            "steamid": "[U:1:1564304616]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mia",
+                "time": 1719183103
+            },
+            "proof": [
+                "Two community server bans. Obvious rage hacker with 'I own closet cheaters' in his bio."
+            ],
+            "steamid": "[U:1:1603991534]"
         }
     ]
 }
