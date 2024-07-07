@@ -243,6 +243,19 @@
                 "Two community server bans. Obvious rage hacker with 'I own closet cheaters' in his bio."
             ],
             "steamid": "[U:1:1603991534]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Piss Master",
+                "time": 1720322376
+            },
+            "proof": [
+                "rage hacking in our game, instant headshots, bhopping, fresh account"
+            ],
+            "steamid": "[U:1:1583107771]"
         }
     ]
 }
