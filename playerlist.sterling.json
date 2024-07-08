@@ -257,6 +257,20 @@
                 "his only friend is 76561198860365325, his main account, manually game banned by valve"
             ],
             "steamid": "[U:1:1583107771]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fish Fisherman",
+                "time": 1720399356
+            },
+            "proof": [
+                "very blatant cheater: rage airstrafing, bhopping, shooting at us with aimbot across the map, spamming force crits",
+                "server ban for cheating, though it was removed--pubber admins are really dumb and also I'll assume he wasn't rage hacking on their servers"
+            ],
+            "steamid": "[U:1:58390294]"
         }
     ]
 }
