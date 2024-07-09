@@ -271,6 +271,45 @@
                 "server ban for cheating, though it was removed--pubber admins are really dumb and also I'll assume he wasn't rage hacking on their servers"
             ],
             "steamid": "[U:1:58390294]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "♥QueenKitty♥",
+                "time": 1720533519
+            },
+            "proof": [
+                "https://www.youtube.com/watch?v=XD-BycmLLYQ, status confirms his ID at 1:44"
+            ],
+            "steamid": "[U:1:1738618189]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "♥QueenKitty♥",
+                "time": 1720533519
+            },
+            "proof": [
+                "https://www.youtube.com/watch?v=XD-BycmLLYQ, status confirms his ID at 1:44"
+            ],
+            "steamid": "[U:1:1738618189]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Rudolph #Fix TF2",
+                "time": 1720533519
+            },
+            "proof": [
+                "https://www.youtube.com/watch?v=TPtfLx1lqLU Cheater on purchased account"
+            ],
+            "steamid": "[U:1:27001825]"
         }
     ]
 }
