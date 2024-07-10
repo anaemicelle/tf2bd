@@ -297,6 +297,34 @@
                 "https://www.youtube.com/watch?v=TPtfLx1lqLU Cheater on purchased account"
             ],
             "steamid": "[U:1:27001825]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Emperor Nichijao",
+                "time": 1720586575
+            },
+            "proof": [
+                "User submission, reuploaded for privacy: https://www.youtube.com/watch?v=pyDK6zypW18",
+                "Uploaded this video of himself cheating; seems to have been on a throwaway account and the submitter was unable to produce it",
+                "However, a comparison of game settings (crosshair, HUD, captions), viewmodels, and editing style with videos on his main channel like https://www.youtube.com/watch?v=xTzJbSQ7K_k make clear it is him"
+            ],
+            "steamid": "[U:1:479562356]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Emperor Nichijao",
+                "time": 1720586575
+            },
+            "proof": [
+                "Alt account of cheater 76561198439828084; evidence in this file under [U:1:479562356]"
+            ],
+            "steamid": "[U:1:1087948919]"
         }
     ]
 }
