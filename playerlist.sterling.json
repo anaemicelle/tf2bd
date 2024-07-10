@@ -325,6 +325,19 @@
                 "Alt account of cheater 76561198439828084; evidence in this file under [U:1:479562356]"
             ],
             "steamid": "[U:1:1087948919]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Bygones",
+                "time": 1720586575
+            },
+            "proof": [
+                "Three community server bans, xarq0n fanboy groups, aimbotting stickies (WHY???)"
+            ],
+            "steamid": "[U:1:1732963915]"
         }
     ]
 }
