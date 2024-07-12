@@ -338,6 +338,34 @@
                 "Three community server bans, xarq0n fanboy groups, aimbotting stickies (WHY???)"
             ],
             "steamid": "[U:1:96900672]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Hanksite (she/her) #TF2isFixed",
+                "time": 1720749396
+            },
+            "proof": [
+                "Rage hacking: https://www.youtube.com/watch?v=byZCLNXFZY8",
+                "Forgot status, but compare backpack; has the same yellow gibus"
+            ],
+            "steamid": "[U:1:164068778]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "tf1 enjoyer | #FixTF2",
+                "time": 1720749396
+            },
+            "proof": [
+                "Rage hacking: https://www.youtube.com/watch?v=9W2-4QTj7hA",
+                "Not a great example, but he was queued with cheater [U:1:164068778] and has a VAC ban *3* days ago"
+            ],
+            "steamid": "[U:1:99990594]"
         }
     ]
 }
