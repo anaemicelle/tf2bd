@@ -366,6 +366,20 @@
                 "Not a great example, but he was queued with cheater [U:1:164068778] and has a VAC ban *3* days ago"
             ],
             "steamid": "[U:1:99990594]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "lurkin",
+                "time": 1721172374
+            },
+            "proof": [
+                "rage toggled and insta-headshot me when bombed",
+                "The 6 community server bans do not lie."
+            ],
+            "steamid": "[U:1:455693607]"
         }
     ]
 }
