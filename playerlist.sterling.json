@@ -376,10 +376,65 @@
                 "time": 1721172374
             },
             "proof": [
-                "rage toggled and insta-headshot me when bombed",
+                "rage toggled and insta-headshot when bombed",
                 "The 6 community server bans do not lie, nor do the cheat visuals visible in his screenshots (custom team colours)"
             ],
             "steamid": "[U:1:455693607]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "76561198011724329",
+                "time": 1721761267
+            },
+            "proof": [
+                "Server bans; in our game, ragehacking one-trick pony"
+            ],
+            "steamid": "[U:1:51458601]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "SLIME BALL JAMAL",
+                "time": 1721761267
+            },
+            "proof": [
+                "Server bans, friends list full of cheaters, rage hacking in our game, 'rijin' as his Steam bio",
+                "also bought one of those 30-key unusuals cheaters buy and has a showcase saying 'i have unusuals i cant cheat'"
+            ],
+            "steamid": "[U:1:1486501352]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "jinx",
+                "time": 1721761267
+            },
+            "proof": [
+                "Brand new account that started rage hacking at the end of a game.",
+                "Video still needs to be edited; somewhere in our clips as of right now",
+                "In a cheater group (groups/neverusahackonmainacc) and was copying cheat youtuber Boring Channel with his entire profile when encountered"
+            ],
+            "steamid": "[U:1:1690977600]"
+        },
+        {
+            "attributes": [
+                "exploiter"
+            ],
+            "last_seen": {
+                "player_name": "april",
+                "time": 1721761267
+            },
+            "proof": [
+                "Accidentally marked. Placeholder marking (since it's on SteamHistory) to clarify no evidence of cheats. Sorry!"
+            ],
+            "steamid": "[U:1:1732963915]"
         }
     ]
 }
