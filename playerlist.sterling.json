@@ -435,6 +435,20 @@
                 "Accidentally marked. Placeholder marking (since it's on SteamHistory) to clarify no evidence of cheats. Sorry!"
             ],
             "steamid": "[U:1:1732963915]"
+        },
+        {
+            "attributes": [
+                "exploiter"
+            ],
+            "last_seen": {
+                "player_name": "Wallydrag",
+                "time": 1722030820
+            },
+            "proof": [
+                "Joining the game with 'player joined team RED' instead of 'player was automatically assigned to team RED': https://i.imgur.com/UGin6Mw.png",
+                "It is NOT possible for this to happen without actively having cheats injected. Specifically, users of the cheat Nullcore, but not all, have this happen."
+            ],
+            "steamid": "[U:1:40076434]"
         }
     ]
 }
