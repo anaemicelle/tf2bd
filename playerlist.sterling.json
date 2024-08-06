@@ -449,6 +449,20 @@
                 "It is NOT possible for this to happen without actively having cheats injected. Specifically, users of the cheat Nullcore, but not all, have this happen."
             ],
             "steamid": "[U:1:40076434]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "macklemore thrift market",
+                "time": 1722923666
+            },
+            "proof": [
+                "Joining the game with 'player joined team RED' instead of 'player was automatically assigned to team RED': https://i.imgur.com/3kZOfdS.png",
+                "It is NOT possible for this to happen without actively having cheats injected. Specifically, users of the cheat Nullcore, but not all, have this happen."
+            ],
+            "steamid": "[U:1:1220326453]"
         }
     ]
 }
