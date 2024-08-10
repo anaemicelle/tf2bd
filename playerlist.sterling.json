@@ -441,28 +441,28 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "Wallydrag",
-                "time": 1722030820
+                "player_name": "I Have 800 Vac Bans",
+                "time": 1723265357
             },
             "proof": [
-                "Joining the game with 'player joined team RED' instead of 'player was automatically assigned to team RED': https://i.imgur.com/UGin6Mw.png",
-                "It is NOT possible for this to happen without actively having cheats injected. Specifically, users of the cheat Nullcore, but not all, have this happen."
+                "Three server bans, queued with another rage hacker"
             ],
-            "steamid": "[U:1:40076434]"
+            "steamid": "[U:1:1185535428]"
         },
         {
             "attributes": [
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "macklemore thrift market",
-                "time": 1722923666
+                "player_name": "Toilet Pimp",
+                "time": 1723265309
             },
             "proof": [
-                "Joining the game with 'player joined team RED' instead of 'player was automatically assigned to team RED': https://i.imgur.com/3kZOfdS.png",
-                "It is NOT possible for this to happen without actively having cheats injected. Specifically, users of the cheat Nullcore, but not all, have this happen."
+                "Joining the game with 'player joined team BLU' instead of 'player was automatically assigned to team BLU': https://i.imgur.com/bASiLhA.png",
+                "It is NOT possible for this to happen without actively having cheats injected. Specifically, users of the cheat Nullcore, but not all, have this happen.",
+                "Also queued with cheater 76561199145801156 and rage hacking"
             ],
-            "steamid": "[U:1:1220326453]"
+            "steamid": "[U:1:265408812]"
         }
     ]
 }
