@@ -11,9 +11,3 @@ Every marking is accompanied by 100% certainty on our part that the player is ch
 # Why mark people with SourceBans, anyway?
 
 You would think it's all but redundant to add cheaters who are already banned somewhere, but as it turns out, there are a bunch of people with such bans in our games--even from automated anticheats--who clearly aren't cheating. They're usually not even going positive. (As of the day I'm writing this, we saw two just yesterday.) I couldn't tell you why it is, but not everyone who has one or even multiple of these is actively cheating. As for those who still are, the list lets you know that they're still in Casual and they're still cheating. Even with bans, I don't automatically assume someone is cheating until they've given us reason.
-
-# Note on "\<name> joined team RED"
-
-It was the case for many years that players who received a "\<name> joined team RED/BLU" as opposed to "\<name> was automatically assigned to team RED/BLU" was a cheater using Nullcore. I have no idea why that particular cheat causes this (and it persisted long after custom names and disconnect messages were patched), but it is not seen in users of other cheats. Recently (July-August 2024), I've seen numerous players get this whom I did not believe to be cheating; they did not respond like cheaters when called out, had legit profiles with no cheaters added, and were not playing particularly well (all were negative). One guy I asked said that he was "stuck in spectator" for a bit upon joining. We'll have to investigate.
-
-Anyway, for this reason, I removed the few markings using solely this as evidence and will no longer be using it to mark people, at least until we figure out there isn't something in the vanilla game causing this.
