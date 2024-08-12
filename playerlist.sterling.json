@@ -422,6 +422,45 @@
                 "Also queued with cheater 76561199145801156 and rage hacking"
             ],
             "steamid": "[U:1:265408812]"
-        }
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Gilbert",
+                "time": 1723000209
+            },
+            "proof": [
+                "2fort rage hacker, see server ban"
+            ],
+            "steamid": "[U:1:1703088773]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "xFlako",
+                "time": 1719215972
+            },
+            "proof": [
+                "Game and server bans, rage hacking"
+            ],
+            "steamid": "[U:1:1575386440]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "zorce",
+                "time": 1722227556
+            },
+            "proof": [
+                "Garden-variety rage hacker, multiple server bans"
+            ],
+            "steamid": "[U:1:862983413]"
+        },
     ]
 }
