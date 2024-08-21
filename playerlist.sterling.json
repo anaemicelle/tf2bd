@@ -472,6 +472,20 @@
                 "Cheating as scout with aimbot, crit hacks, and ESP. Very obvious, hitting every shot and critting exactly when he needs it"
             ],
             "steamid": "[U:1:42314417]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "$_Undead_Akaza_$",
+                "time": 1724197675
+            },
+            "proof": [
+                "Cheater on alt account (made seven months ago)",
+                "Rage crit hacks and aimbot on demo, rage airstrafing (lol)"
+            ],
+            "steamid": "[U:1:1666585796]"
         }
     ]
 }
