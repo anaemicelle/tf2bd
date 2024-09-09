@@ -552,5 +552,19 @@
             ],
             "steamid": "[U:1:1259641845]"
         },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "jerrod",
+                "time": 1725920707
+            },
+            "proof": [
+                "Cheater on purchased account",
+                "Aimbotting as heavy, been at it for a while judging by the server ban: https://i.imgur.com/4p0PaHT.png"
+            ],
+            "steamid": "[U:1:2287157]"
+        }
     ]
 }
