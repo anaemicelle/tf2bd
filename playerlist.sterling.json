@@ -486,6 +486,45 @@
                 "Rage crit hacks and aimbot on demo, rage airstrafing (lol)"
             ],
             "steamid": "[U:1:1666585796]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "robertduncan #savetf2",
+                "time": 1725852968
+            },
+            "proof": [
+                "Obvious rage hacker in stack, see comments"
+            ],
+            "steamid": "[U:1:1307136527]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Engineer #SaveTF2",
+                "time": 1725852968
+            },
+            "proof": [
+                "Ragehacker with frame-perfect bhops and fresh account"
+            ],
+            "steamid": "[U:1:111183256]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "GlawGlack",
+                "time": 1725852968
+            },
+            "proof": [
+                "Ragehacking, see comments, game banned, friends with other cheaters"
+            ],
+            "steamid": "[U:1:1022447499]"
         }
     ]
 }
