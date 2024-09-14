@@ -566,6 +566,19 @@
                 "Aimbotting as heavy, been at it for a while judging by the server ban: https://i.imgur.com/4p0PaHT.png"
             ],
             "steamid": "[U:1:2287157]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Asmongold TV",
+                "time": 1726274918
+            },
+            "proof": [
+                "Cheater using crit hacks, ESP, rage aimbot"
+            ],
+            "steamid": "[U:1:1081659773]"
         }
     ]
 }
