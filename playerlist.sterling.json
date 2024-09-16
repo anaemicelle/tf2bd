@@ -580,6 +580,19 @@
                 "Cheater using crit hacks, ESP, rage aimbot"
             ],
             "steamid": "[U:1:1081659773]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Harvard Valedictorian",
+                "time": 1726500784
+            },
+            "proof": [
+                "Rage cheater: countless server bans, in cheat groups ('moneybot')"
+            ],
+            "steamid": "[U:1:1567066384]"
         }
     ]
 }
