@@ -610,6 +610,19 @@
                 "Fresh account cheating on sniper, at least aim/triggerbot + ESP"
             ],
             "steamid": "[U:1:1636475830]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Jesus Christ",
+                "time": 1727034556
+            },
+            "proof": [
+                "Fresh account cheating on soldier with DH, autoshoot + ESP + force crits"
+            ],
+            "steamid": "[U:1:1788165969]"
         }
     ]
 }
