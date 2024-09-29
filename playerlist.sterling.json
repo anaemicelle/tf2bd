@@ -623,6 +623,32 @@
                 "Fresh account cheating on soldier with DH, autoshoot + ESP + force crits"
             ],
             "steamid": "[U:1:1788165969]"
-        }
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Eevee Gaming",
+                "time": 1727641959
+            },
+            "proof": [
+                "switched to rage sniper when he started losing"
+            ],
+            "steamid": "[U:1:1562360358]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ロック",
+                "time": 1727641998
+            },
+            "proof": [
+                "Server ban for aimbot; started losing and healing a rage hacker on their team early, indicating he was with the cheater: this is a cheater"
+            ],
+            "steamid": "[U:1:111849481]"
+        },
     ]
 }
