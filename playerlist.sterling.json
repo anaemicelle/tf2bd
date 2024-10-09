@@ -678,19 +678,6 @@
                 "'Closet' cheater with very poorly hidden ESP and aimbot."
             ],
             "steamid": "[U:1:907235895]"
-        },
-        {
-            "attributes": [
-                "cheater"
-            ],
-            "last_seen": {
-                "player_name": "Waifumilk",
-                "time": 1728441042
-            },
-            "proof": [
-                "Obvious ESP, forcing crits, fakelagging, auto-air strafing"
-            ],
-            "steamid": "[U:1:123030265]"
-        }    
+        }
     ]
 }
