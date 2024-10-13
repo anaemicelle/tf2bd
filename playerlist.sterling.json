@@ -678,6 +678,19 @@
                 "'Closet' cheater with very poorly hidden ESP and aimbot."
             ],
             "steamid": "[U:1:907235895]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Pull off your Skin",
+                "time": 1728806866
+            },
+            "proof": [
+                "Two server bans, prefiring people he could not see, DM and gamesense totally inconsistent with KD, etc., obvious cheater."
+            ],
+            "steamid": "[U:1:394228283]"
         }
     ]
 }
