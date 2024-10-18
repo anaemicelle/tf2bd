@@ -731,6 +731,19 @@
                 "Alt account of cheater 76561198415126005 (compare name history)"
             ],
             "steamid": "[U:1:417440473]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Average Cheadle Enjoyer",
+                "time": 1729233994
+            },
+            "proof": [
+                "ragehacking on throwaway account"
+            ],
+            "steamid": "[U:1:1576072150]"
         }
     ]
 }
