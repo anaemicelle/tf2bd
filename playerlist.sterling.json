@@ -705,6 +705,19 @@
                 "Very unskilled rage hacker--took 5 aimbotted stickies to kill a medic in a corner, forcing crits, aimbotting stickies and pipes"
             ],
             "steamid": "[U:1:1183637761]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "valentina",
+                "time": 1728949624
+            },
+            "proof": [
+                "Spectated him and he was very obviously using silent aimbot. Account with no history and nonexistent gamesense, also became much less effective once spectated"
+            ],
+            "steamid": "[U:1:988292736]"
         }
     ]
 }
