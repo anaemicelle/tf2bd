@@ -770,6 +770,19 @@
                 "In cheater queue with 76561199780180019, 76561198377706201, and friends; defending them and talking shit in chat, kicking people trying to kick the cheaters: https://i.imgur.com/7cRAXKD.png"
             ],
             "steamid": "[U:1:112443417]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Gulfshots",
+                "time": 1729569933
+            },
+            "proof": [
+                "Rage hacker on fresh account "
+            ],
+            "steamid": "[U:1:1602000821]"
         }
     ]
 }
