@@ -783,6 +783,32 @@
                 "Rage hacker on fresh account"
             ],
             "steamid": "[U:1:1602000821]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Just having fun",
+                "time": 1730085758
+            },
+            "proof": [
+                "Rage hacker on fresh account, heavy with aimbot"
+            ],
+            "steamid": "[U:1:1833310183]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Tommy Shelby",
+                "time": 1730085758
+            },
+            "proof": [
+                "Cheater's accomplice playing with 76561199129592652, marked as cheater elsewhere"
+            ],
+            "steamid": "[U:1:1169326924]"
         }
     ]
 }
