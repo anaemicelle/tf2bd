@@ -809,6 +809,19 @@
                 "Cheater's accomplice playing with 76561199129592652, enabled large-FOV Ambassador aimbot and was promptly kicked"
             ],
             "steamid": "[U:1:1169326924]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sir blunderbrain",
+                "time": 1730407338
+            },
+            "proof": [
+                "Two server bans: started toggling sniper aimbot"
+            ],
+            "steamid": "[U:1:891200653]"
         }
     ]
 }
