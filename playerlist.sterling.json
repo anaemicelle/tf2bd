@@ -822,6 +822,19 @@
                 "Two server bans: started toggling sniper aimbot"
             ],
             "steamid": "[U:1:891200653]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "SeximusTheThird",
+                "time": 1730414184
+            },
+            "proof": [
+                "Obvious cheater with heavy aimbot, ragehacking and still losing fights because he has no gamesense but perfect aim"
+            ],
+            "steamid": "[U:1:88303978]"
         }
     ]
 }
