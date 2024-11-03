@@ -835,6 +835,19 @@
                 "Obvious cheater with heavy aimbot, ragehacking and still losing fights because he has no gamesense but perfect aim"
             ],
             "steamid": "[U:1:88303978]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Heavy is sandvich",
+                "time": 1730668181
+            },
+            "proof": [
+                "Ragehacker"
+            ],
+            "steamid": "[U:1:70987257]"
         }
     ]
 }
