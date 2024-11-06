@@ -835,6 +835,19 @@
                 "Cheating on sniper: saw him bhop to confirm it."
             ],
             "steamid": "[U:1:237626827]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "daisy",
+                "time": 1730862586
+            },
+            "proof": [
+                "Chronic cheater; alt of 76561199527332112, per shared aliases and items, e.g., https://backpack.tf/item/5871711719"
+            ],
+            "steamid": "[U:1:1724603093]"
         }
     ]
 }
