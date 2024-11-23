@@ -848,6 +848,19 @@
                 "Chronic cheater; alt of 76561199527332112, per shared aliases and items, e.g., https://backpack.tf/item/5871711719"
             ],
             "steamid": "[U:1:1724603093]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "A. Bettik",
+                "time": 1732348678
+            },
+            "proof": [
+                "Cheater on purchased account: aimbot, ESP"
+            ],
+            "steamid": "[U:1:2594696]"
         }
     ]
 }
