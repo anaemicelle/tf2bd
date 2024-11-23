@@ -861,6 +861,20 @@
                 "Cheater on purchased account: aimbot, ESP"
             ],
             "steamid": "[U:1:2594696]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "FUCK THIS STUPID PARK",
+                "time": 1732352413
+            },
+            "proof": [
+                "Spamming forced crits, consistently shooting three in a row",
+                "Also, the account is 11 months old and almost immediately got a game and VAC ban"
+            ],
+            "steamid": "[U:1:1614802637]"
         }
     ]
 }
