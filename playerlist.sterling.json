@@ -875,6 +875,32 @@
                 "Also, the account is 11 months old and almost immediately got a game and VAC ban"
             ],
             "steamid": "[U:1:1614802637]"
-        }
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Gasser",
+                "time": 1732943737
+            },
+            "proof": [
+                "ragehacking huntsman on brand-new account"
+            ],
+            "steamid": "[U:1:1603310940]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "chud",
+                "time": 1732943737
+            },
+            "proof": [
+                "Cheating on sniper, fresh account"
+            ],
+            "steamid": "[U:1:1843901814]"
+        }    
     ]
 }
