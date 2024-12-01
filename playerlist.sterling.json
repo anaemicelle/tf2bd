@@ -901,6 +901,19 @@
                 "Cheating on sniper, fresh account"
             ],
             "steamid": "[U:1:1843901814]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Boring",
+                "time": 1733040964
+            },
+            "proof": [
+                "backtrack spy; stabbing from 10 feet away"
+            ],
+            "steamid": "[U:1:340397190]"
         }    
     ]
 }
