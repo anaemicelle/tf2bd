@@ -927,6 +927,19 @@
                 "Unskilled rage cheater; prefires crits on people he cannot see, then switches to rage sniper"
             ],
             "steamid": "[U:1:1082938261]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "spaghetti",
+                "time": 1734397369
+            },
+            "proof": [
+                "Demo rage aimbotting with Loch-n-Load; crit hacking and aimbotting, shooting two crits in a row around walls and being aimed directly on people when they peek out without foreknowledge"
+            ],
+            "steamid": "[U:1:210665914]"
         }
     ]
 }
