@@ -940,6 +940,19 @@
                 "Demo rage aimbotting with Loch-n-Load; crit hacking and aimbotting, shooting two crits in a row around walls and being aimed directly on people when they peek out without foreknowledge"
             ],
             "steamid": "[U:1:210665914]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "FROYOBLK b4nny (scary)",
+                "time": 1734481929
+            },
+            "proof": [
+                "Cheater with nine server bans; forcing crits (5+ times on just one player), prefiring around corners"
+            ],
+            "steamid": "[U:1:100310450]"
         }
     ]
 }
