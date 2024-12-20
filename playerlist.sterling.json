@@ -953,6 +953,32 @@
                 "Cheater with nine server bans; forcing crits (5+ times on just one player), prefiring around corners"
             ],
             "steamid": "[U:1:100310450]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "xel",
+                "time": 1734730192
+            },
+            "proof": [
+                "two automated anticheat server bans; immediately went DH in warmup and started preaiming at people through walls"
+            ],
+            "steamid": "[U:1:1317889242]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Heart",
+                "time": 1734730192
+            },
+            "proof": [
+                "Cheater and accomplice to cheater 76561199278154970; will gaslight and troll in chat to obfuscate accusations"
+            ],
+            "steamid": "[U:1:119094420]"
         }
     ]
 }
