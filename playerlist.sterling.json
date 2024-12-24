@@ -992,6 +992,32 @@
                 "Raging sniper with 1.6 hours in TF2"
             ],
             "steamid": "[U:1:1801651179]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "A Bag of Cocaine",
+                "time": 1735017911
+            },
+            "proof": [
+                "Longtime ragehacker"
+            ],
+            "steamid": "[U:1:1279072694]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "LOL get kneeled on",
+                "time": 1735017911
+            },
+            "proof": [
+                "cheater on fresh account"
+            ],
+            "steamid": "[U:1:1842177768]"
         }
     ]
 }
