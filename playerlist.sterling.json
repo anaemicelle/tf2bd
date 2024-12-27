@@ -1018,6 +1018,19 @@
                 "cheater on fresh account"
             ],
             "steamid": "[U:1:1842177768]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "LOL get kneeled on",
+                "time": 1735264461
+            },
+            "proof": [
+                "Sniper toggle: went from horribly missing every shot on projectile classes to immmediately headshotting the second someone peeks"
+            ],
+            "steamid": "[U:1:415888079]"
         }
     ]
 }
