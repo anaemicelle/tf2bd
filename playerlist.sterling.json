@@ -1044,6 +1044,19 @@
                 "Obvious cheater on hour-farmed account"
             ],
             "steamid": "[U:1:896005237]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "watercat",
+                "time": 1735597579
+            },
+            "proof": [
+                "Cheater with two server bans; obviously idled hours and multiple game bans"
+            ],
+            "steamid": "[U:1:1425965490]"
         }
     ]
 }
