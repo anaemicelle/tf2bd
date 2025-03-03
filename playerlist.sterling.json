@@ -1084,6 +1084,19 @@
                 "Forcing crits and aimbot, generic rage hacker"
             ],
             "steamid": "[U:1:1124700424]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "gnol",
+                "time": 1741037268
+            },
+            "proof": [
+                "poorly hidden ragehacks"
+            ],
+            "steamid": "[U:1:1155479007]"
         }
     ]
 }
