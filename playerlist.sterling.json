@@ -1097,6 +1097,19 @@
                 "poorly hidden ragehacks"
             ],
             "steamid": "[U:1:1155479007]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Skittles",
+                "time": 1741315113
+            },
+            "proof": [
+                "Cheater on purchased account: obvious in game, but also used the same URL on 76561197992711007"
+            ],
+            "steamid": "[U:1:34357263]"
         }
     ]
 }
