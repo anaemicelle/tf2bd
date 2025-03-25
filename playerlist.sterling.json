@@ -1110,6 +1110,19 @@
                 "Cheater on purchased account: obvious in game, but also used the same URL on 76561197992711007"
             ],
             "steamid": "[U:1:34357263]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Pittsburgh Eddie",
+                "time": 1742926053
+            },
+            "proof": [
+                "Spy rage hacker: wallhack, watching enemies through walls to attack them"
+            ],
+            "steamid": "[U:1:1615920987]"
         }
     ]
 }
