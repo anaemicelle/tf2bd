@@ -1176,6 +1176,32 @@
                 "Alt of cheater 76561198064374638"
             ],
             "steamid": "[U:1:315062819]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Bizøp 1",
+                "time": 1744940219
+            },
+            "proof": [
+                "cheater on throwaway account"
+            ],
+            "steamid": "[U:1:1850254398]"
+        },
+           {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Bizop 1",
+                "time": 1744940219
+            },
+            "proof": [
+                "cheater in group with 76561199810520126"
+            ],
+            "steamid": "[U:1:1253589391]"
         }
     ]
 }
