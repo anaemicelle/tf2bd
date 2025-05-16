@@ -1190,7 +1190,7 @@
             ],
             "steamid": "[U:1:1850254398]"
         },
-           {
+        {
             "attributes": [
                 "cheater"
             ],
@@ -1202,6 +1202,19 @@
                 "cheater in group with 76561199810520126"
             ],
             "steamid": "[U:1:1253589391]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "bats",
+                "time": 1747427256
+            },
+            "proof": [
+                "Chronic cheater, alt of 76561198193056827: will attempt to votekick innocent players"
+            ],
+            "steamid": "[U:1:122798250]"
         }
     ]
 }
