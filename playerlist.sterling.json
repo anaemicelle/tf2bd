@@ -1280,6 +1280,32 @@
                 "Throwaway account blatantly cheating as demo, predicting dets around walls"
             ],
             "steamid": "[U:1:1886135023]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "testiculartorsiongaming28",
+                "time": 1748245420
+            },
+            "proof": [
+                "Ragehacking lobby cheater on throwaway account"
+            ],
+            "steamid": "[U:1:1892353780]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "LOOKIN' 4 DA WIFE!!",
+                "time": 1748245420
+            },
+            "proof": [
+                "Ragehacking lobby cheater on throwaway account"
+            ],
+            "steamid": "[U:1:1898721483]"
         }
     ]
 }
