@@ -1306,6 +1306,32 @@
                 "Ragehacking lobby cheater on throwaway account"
             ],
             "steamid": "[U:1:1898721483]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Lemmestrokeyoshit25",
+                "time": 1748299367
+            },
+            "proof": [
+                "Obvious group cheater"
+            ],
+            "steamid": "[U:1:144360068]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ZubZub",
+                "time": 1748299367
+            },
+            "proof": [
+                "Obvious cheater, countless server bans"
+            ],
+            "steamid": "[U:1:436771655]"
         }
     ]
 }
