@@ -1254,6 +1254,19 @@
                 "Ragehacking in-game"
             ],
             "steamid": "[U:1:1804140772]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Jack The Racist",
+                "time": 1748236304
+            },
+            "proof": [
+                "Ragehacking as spy with revolver"
+            ],
+            "steamid": "[U:1:454217369]"
         }
     ]
 }
