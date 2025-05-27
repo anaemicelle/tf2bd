@@ -1332,6 +1332,19 @@
                 "Obvious cheater, countless server bans"
             ],
             "steamid": "[U:1:436771655]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sigma Griffin",
+                "time": 1748388203
+            },
+            "proof": [
+                "generic human cheatbot"
+            ],
+            "steamid": "[U:1:1736322510]"
         }
     ]
 }
