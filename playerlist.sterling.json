@@ -1345,6 +1345,32 @@
                 "generic human cheatbot"
             ],
             "steamid": "[U:1:1736322510]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "rijin.gf",
+                "time": 1748564387
+            },
+            "proof": [
+                "rage heavy"
+            ],
+            "steamid": "[U:1:1901025639]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Houston, we have a gf",
+                "time": 1748564387
+            },
+            "proof": [
+                "party cheater, will gaslight votes"
+            ],
+            "steamid": "[U:1:903631049]"
         }
     ]
 }
