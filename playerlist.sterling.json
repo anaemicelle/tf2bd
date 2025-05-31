@@ -1410,6 +1410,19 @@
                 "rage lobby"
             ],
             "steamid": "[U:1:1859135195]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "koko",
+                "time": 1748678922
+            },
+            "proof": [
+                "first ever cheater to toggle off when accused"
+            ],
+            "steamid": "[U:1:1206322066]"
         }
     ]
 }
