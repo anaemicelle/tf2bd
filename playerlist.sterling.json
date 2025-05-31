@@ -1384,6 +1384,32 @@
                 "most interesting cheater"
             ],
             "steamid": "[U:1:1871877107]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "gay",
+                "time": 1748649851
+            },
+            "proof": [
+                "spinning"
+            ],
+            "steamid": "[U:1:1901025639]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "76561199819400923 ",
+                "time": 1748649851
+            },
+            "proof": [
+                "rage lobby"
+            ],
+            "steamid": "[U:1:1859135195]"
         }
     ]
 }
