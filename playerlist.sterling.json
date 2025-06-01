@@ -1423,6 +1423,32 @@
                 "first ever cheater to toggle off when accused"
             ],
             "steamid": "[U:1:1206322066]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "hungrymanfreezerisle9",
+                "time": 1748747000
+            },
+            "proof": [
+                "bhop, auto air strafe, aimbot, the works"
+            ],
+            "steamid": "[U:1:1478293766]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "huckstablehunter457",
+                "time": 1748747000
+            },
+            "proof": [
+                "party rage hacker"
+            ],
+            "steamid": "[U:1:1901265164]"
         }
     ]
 }
