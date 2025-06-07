@@ -1462,6 +1462,19 @@
                 "rage heavy"
             ],
             "steamid": "[U:1:1151699266]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "KD Matters",
+                "time": 1749278050
+            },
+            "proof": [
+                "aimbotting as scout, crit hacking, game ban 30 days ago, server bans, etc"
+            ],
+            "steamid": "[U:1:1143248848]"
         }
     ]
 }
