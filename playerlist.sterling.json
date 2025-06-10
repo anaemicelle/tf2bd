@@ -1475,6 +1475,19 @@
                 "aimbotting as scout, crit hacking, game ban 30 days ago, server bans, etc"
             ],
             "steamid": "[U:1:1143248848]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Samarie",
+                "time": 1749542737
+            },
+            "proof": [
+                "clueless sniper toggling cheater"
+            ],
+            "steamid": "[U:1:105623551]"
         }
     ]
 }
