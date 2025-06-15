@@ -1514,6 +1514,19 @@
                 "obvious cheater on new account"
             ],
             "steamid": "[U:1:1833424518]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "paul",
+                "time": 1749968574
+            },
+            "proof": [
+                "rage toggling sniper obvious as fuck"
+            ],
+            "steamid": "[U:1:1299757754]"
         }
     ]
 }
