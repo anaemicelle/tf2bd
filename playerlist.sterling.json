@@ -1501,6 +1501,19 @@
                 "Cheater with nopush"
             ],
             "steamid": "[U:1:1872196481]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Eclypse",
+                "time": 1749957211
+            },
+            "proof": [
+                "obvious cheater on new account"
+            ],
+            "steamid": "[U:1:1833424518]"
         }
     ]
 }
