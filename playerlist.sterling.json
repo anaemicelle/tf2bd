@@ -1540,6 +1540,19 @@
                 "f2p cheating demo on fresh account, force crits + esp"
             ],
             "steamid": "[U:1:1856440937]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "benjoe226",
+                "time": 1750315692
+            },
+            "proof": [
+                "ragehacking heavy on fresh account"
+            ],
+            "steamid": "[U:1:1889468637]"
         }
     ]
 }
