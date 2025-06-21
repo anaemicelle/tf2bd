@@ -1566,6 +1566,32 @@
                 "aimbotting with shortstop"
             ],
             "steamid": "[U:1:363583274]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "estrogen powered scout",
+                "time": 1750544203
+            },
+            "proof": [
+                "Cheater on purchased account; multiple server bans; multiple cheaters added/in comments (was with 76561199655848498)"
+            ],
+            "steamid": "[U:1:1431729]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "-AA- .FeRaL' [#BanPitBulls!]",
+                "time": 1750544203
+            },
+            "proof": [
+                "Cheater on purchased account; pretending to be in sniper group AA to deflect cheating accusations"
+            ],
+            "steamid": "[U:1:39162390]"
         }
     ]
 }
