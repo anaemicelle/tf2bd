@@ -1553,6 +1553,19 @@
                 "ragehacking heavy on fresh account"
             ],
             "steamid": "[U:1:1889468637]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Komorebi",
+                "time": 1750477366
+            },
+            "proof": [
+                "aimbotting with shortstop"
+            ],
+            "steamid": "[U:1:363583274]"
         }
     ]
 }
