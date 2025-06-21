@@ -1553,6 +1553,19 @@
                 "ragehacking heavy on fresh account"
             ],
             "steamid": "[U:1:1889468637]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "beyoncé",
+                "time": 1750471705
+            },
+            "proof": [
+                "abusing force crits"
+            ],
+            "steamid": "[U:1:438117348]"
         }
     ]
 }
