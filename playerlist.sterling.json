@@ -1592,6 +1592,59 @@
                 "Cheater on purchased account; pretending to be in sniper group AA to deflect cheating accusations"
             ],
             "steamid": "[U:1:39162390]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ExplodeRickMayIntoBlubber",
+                "time": 1750565948
+            },
+            "proof": [
+                "Cheater of the 'rage toggle to get dominated by a legit' variety; fresh account, would recommend reporting,",
+                "as the profile is an 'epic baiter'-type cheater and is likely to amass enough reports for a ban"
+            ],
+            "steamid": "[U:1:1905428720]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "WePlayTheGame",
+                "time": 1750565948
+            },
+            "proof": [
+                "Cheater's accomplice to 76561199865694448; will defend in chat and heal him, as well as attempt"
+            ],
+            "steamid": "[U:1:1111037350]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "JUS GIMME MY SUSILY",
+                "time": 1750566035
+            },
+            "proof": [
+                "Rage hacker, lobby with other fresh account cheater 76561199840160013"
+            ],
+            "steamid": "[U:1:1853310460]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "JOE",
+                "time": 1750566035
+            },
+            "proof": [
+                "Rage hacker, lobby with bunnyhopping 76561199813576188"
+            ],
+            "steamid": "[U:1:1879894285]"
         }
     ]
 }
