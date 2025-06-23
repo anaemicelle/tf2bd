@@ -1645,6 +1645,19 @@
                 "Rage hacker, lobby with bunnyhopping 76561199813576188"
             ],
             "steamid": "[U:1:1879894285]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mr Incredible Becoming Uncanny",
+                "time": 1750710422
+            },
+            "proof": [
+                "Alt of 76561199088744577, fresh account cheating"
+            ],
+            "steamid": "[U:1:1128478849]"
         }
     ]
 }
