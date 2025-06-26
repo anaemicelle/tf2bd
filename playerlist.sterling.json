@@ -9,10 +9,23 @@
         "update_url": "https://raw.githubusercontent.com/anaemicelle/tf2bd/main/playerlist.sterling.json"
     },
     "players": [
-        {
+		{
             "attributes": [
-                "cheater"
-            ],
+                "cheater",
+		{
+				"attributes": [
+						"cheater"
+				],
+				"last_seen": {
+						"player_name": "Le Epic BROFIST",
+						"time": 1750904419
+				},
+				"proof": [
+						"chronic rage hacker, countless server bans"
+				],
+				"steamid": "[U:1:347892264]"
+		}
+	],
             "last_seen": {
                 "player_name": "T",
                 "time": 1717402112
