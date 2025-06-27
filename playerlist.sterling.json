@@ -1668,6 +1668,19 @@
                 "test"
             ],
             "steamid": "[U:1:347892264]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "daisy",
+                "time": 1750986878
+            },
+            "proof": [
+                "alt of 76561199655848498, others"
+            ],
+            "steamid": "[U:1:1547965456]"
         }
     ]
 }
