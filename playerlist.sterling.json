@@ -1668,6 +1668,19 @@
                 "test"
             ],
             "steamid": "[U:1:347892264]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mallwhore",
+                "time": 1750986235
+            },
+            "proof": [
+                "cheater"
+            ],
+            "steamid": "[U:1:120834533]"
         }
     ]
 }
