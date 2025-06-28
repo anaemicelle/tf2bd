@@ -1681,6 +1681,19 @@
                 "alt of 76561199655848498, 76561199527332112, others"
             ],
             "steamid": "[U:1:1547965456]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ุ",
+                "time": 1751153561
+            },
+            "proof": [
+                "generic sniper cheater"
+            ],
+            "steamid": "[U:1:1272099585]"
         }
     ]
 }
