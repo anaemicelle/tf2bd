@@ -1707,6 +1707,19 @@
                 "obviously purchased account"
             ],
             "steamid": "[U:1:37696505]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "im small baby im sorry",
+                "time": 1751257537
+            },
+            "proof": [
+                "cheating on spy, toggled on sniper at end of game"
+            ],
+            "steamid": "[U:1:1302707633]"
         }
     ]
 }
