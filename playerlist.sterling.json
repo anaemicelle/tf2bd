@@ -1716,12 +1716,27 @@
             ],
             "last_seen": {
                 "player_name": "hurt :)",
-                "time":  1751789808
+                "time": 1751789808
             },
             "proof": [
                 "Alt account of inveterate cheater 76561199655848498; this account is likely also purchased"
             ],
             "steamid": "[U:1:1106776900]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "b@",
+                "time": 1751789808
+            },
+            "proof": [
+                "Chronic cheater, alt of 76561198193056827: will attempt to votekick innocent players",
+                "This is the cheater 'AdaRose'/'JadedRoses' (hilariously, acted as a 'cheater consultant' on a video accusing a youtuber of cheating: https://youtu.be/v367y8iMo88?si=XSh58ts_9ZxNv1tS&t=1054",
+                "cf. Skial ban on other account, marking on Sleepy's list, laughably obvious auto-airblast and ESP in-game"
+            ],
+            "steamid": "[U:1:122798250]"
         }
     ]
 }
