@@ -45,7 +45,6 @@
             },
             "proof": [
                 "https://archive.is/Y5vQs",
-                "mirror because it's funny how bad he is at hiding it: https://youtu.be/ewzZxBVJnpA",
                 "has a million cheaters added, server ban, etc."
             ],
             "steamid": "[U:1:1563123657]"
@@ -85,24 +84,11 @@
                 "cheater"
             ],
             "last_seen": {
-                "player_name": "kuxakuwo",
-                "time": 1717740102
-            },
-            "proof": [
-                "https://www.youtube.com/watch?v=XvtiqH5LDpQ no one who isnt cheating does this this confidently + automated AC     server ban for cheating"
-            ],
-            "steamid": "[U:1:427389270]"
-        },
-        {
-            "attributes": [
-                "cheater"
-            ],
-            "last_seen": {
                 "player_name": "xaxaxaxaxaxa",
                 "time": 1717740517
             },
             "proof": [
-                "https://youtu.be/DWAnKZFhIV8 autostrafe + server bans + wannabe OG url like many cheaters 'critbans'"
+                "autostrafe + server bans + wannabe OG url like many cheaters 'critbans'"
             ],
             "steamid": "[U:1:493350512]"
         },
@@ -128,7 +114,7 @@
                 "time": 1717794245
             },
             "proof": [
-                "https://www.youtube.com/watch?v=LqMpWEk-w98 no status but look at his backpack.tf he has those hats"
+                "huntsman aimbot"
             ],
             "steamid": "[U:1:1482202825]"
         },
@@ -155,7 +141,7 @@
                 "time": 1718753894
             },
             "proof": [
-                "critting people all the time and around corners in our game, prefiring like https://youtu.be/XP4finSXKpg",
+                "critting people all the time and around corners in our game, prefiring",
                 "brand new account in multiple cheater groups https://imgur.com/ztadvil"
             ],
             "steamid": "[U:1:1694424296]"
@@ -185,10 +171,7 @@
                 "time": 1718844168
             },
             "proof": [
-                "I genuinely do not think you even need timestamps given how blatantly he is triggerbotting, but I might update this later",
-                "Archived and mirrored from his channel: https://youtu.be/5SVvvR2vTUM - 0:31, 1:31, etc.",
-                "2024.06.20 update: He privated ALL of his videos immediately (lol), but we've got receipts! https://imgur.com/a/I9Vmhx2",
-                "He might try clearing his channel's history on Wayback soon, so here's a mirror of that: https://archive.is/QfZ6Y"
+                "cheater who scraped his entire online footprint and abandoned account when exposed"
             ],
             "steamid": "[U:1:1059360844]"
         },
@@ -202,7 +185,9 @@
             },
             "proof": [
                 "Alt account (https://www.youtube.com/watch?v=OWAi_UUm48k) of confirmed (in the video) cheater 76561198083063978",
-                "Flagrantly cheating as pyro when we played against him: unparalleled reflect timing and going straight to people to kill them with no info and no reason to go to their positions"
+                "Flagrantly cheating as pyro when we played against him: unparalleled reflect timing and going straight to people to kill them with no info and no reason to go to their positions",
+                "The video was taken down because it was uploaded by another cheater who has since scrubbed his online persona, so more info:",
+                "This is the cheater 'AdaRose'/'JadedRoses' (hilariously, acted as a 'cheater consultant' on a video accusing a youtuber of cheating: https://youtu.be/v367y8iMo88?si=XSh58ts_9ZxNv1tS&t=1054)"
             ],
             "steamid": "[U:1:232791099]"
         },
@@ -321,8 +306,7 @@
                 "time": 1720749396
             },
             "proof": [
-                "Rage hacking: https://www.youtube.com/watch?v=byZCLNXFZY8",
-                "Forgot status, but compare backpack; has the same yellow gibus"
+                "Rage hacking"
             ],
             "steamid": "[U:1:164068778]"
         },
@@ -335,8 +319,8 @@
                 "time": 1720749396
             },
             "proof": [
-                "Rage hacking: https://www.youtube.com/watch?v=9W2-4QTj7hA",
-                "Not a great example, but he was queued with cheater [U:1:164068778] and has a VAC ban *3* days ago"
+                "Rage hacking",
+                "queued with cheater [U:1:164068778] and has a VAC ban *3* days ago"
             ],
             "steamid": "[U:1:99990594]"
         },
@@ -1091,7 +1075,12 @@
                 "time": 1742954383
             },
             "proof": [
-                "Cheater on hour-farmed account: 6,200 hours since March 2024 (out of 8,900 hours)"
+                "Cheater on hour-farmed account: 6,200 hours since March 2024 (out of 8,900 hours)",
+                "Edit: He was displeased with his marking's detail, so let's fix that:",
+                "He is also cheating on his YouTube channel: https://archive.vn/fRS9r (channel on profile) & https://archive.vn/V1yta (channel)",
+                "I don't think there is one projectile shot that actually goes where he is looking; forcing crits (and standing still for a moment to activate his crit key); etc.",
+                "Mirrored @ https://preservetube.com/watch?v=PXDIHUs-P7c",
+                "I'll get around to it again when he inevitably deletes it and that becomes unavailable"
             ],
             "steamid": "[U:1:1695582770]"
         },
@@ -1720,6 +1709,19 @@
                 "cheating on spy, toggled on sniper at end of game"
             ],
             "steamid": "[U:1:1302707633]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "hurt :)",
+                "time":  1751789808
+            },
+            "proof": [
+                "Alt account of inveterate cheater 76561199655848498; this account is likely also purchased"
+            ],
+            "steamid": "[U:1:1106776900]"
         }
     ]
 }
