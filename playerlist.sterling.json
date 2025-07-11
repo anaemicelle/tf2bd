@@ -1750,6 +1750,19 @@
                 "cheater on fresh account, 42:3 as sniper"
             ],
             "steamid": "[U:1:1916798087]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "fn",
+                "time": 1752269409
+            },
+            "proof": [
+                "cheater's accomplice with 76561199877063815, defending in chat"
+            ],
+            "steamid": "[U:1:9070960]"
         }
     ]
 }
