@@ -1763,6 +1763,19 @@
                 "cheater's accomplice with 76561199877063815, defending in chat"
             ],
             "steamid": "[U:1:9070960]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "cardiac",
+                "time": 1752437237
+            },
+            "proof": [
+                "cheating on sniper, toggled after dying a few times on scout"
+            ],
+            "steamid": "[U:1:487859840]"
         }
     ]
 }
