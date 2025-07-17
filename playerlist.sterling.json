@@ -1776,6 +1776,19 @@
                 "cheating on sniper, toggled after dying a few times on scout"
             ],
             "steamid": "[U:1:487859840]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "nizijder",
+                "time": 1752714136
+            },
+            "proof": [
+                "bhopping soldier with 300 hours every achievement and partied with a 4.2 hour cheater"
+            ],
+            "steamid": "[U:1:1261556909]"
         }
     ]
 }
