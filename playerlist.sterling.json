@@ -1791,6 +1791,21 @@
                 "4.2 hour cheater with every achievement and game ban partied with another cheater"
             ],
             "steamid": "[U:1:1245925973]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "snoomy",
+                "time": 1753588638
+            },
+            "proof": [
+                "Cheater on (likely) purchased account; 16-year-old account (2009), but claims to be 20 years old",
+                "May or may not be healing other cheaters like 76561199793690246; will switch to sniper when losing",
+                "URL history (ctrl+f 'medichvh' on steamhistory to verify): https://steamcommunity.com/id/medichvh/ 2023-10-30 13:58:08"
+            ],
+            "steamid": "[U:1:45105450]"
         }
     ]
 }
