@@ -1861,6 +1861,19 @@
                 "walling/crit cheating/proj aimbot w direct hit (account deleted by Steam: added for documentation purposes)"
             ],
             "steamid": "[U:1:1922090283]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Reddit Turbo Virgin",
+                "time": 1753745042
+            },
+            "proof": [
+                "f2p scout cheater: aimbot, esp, was like 23:1 then went negative when spectated"
+            ],
+            "steamid": "[U:1:40037774]"
         }
     ]
 }
