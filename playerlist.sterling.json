@@ -1822,6 +1822,19 @@
                 "Confirmed to be cheating regardless of whether or not he is an alt."
             ],
             "steamid": "[U:1:1894070537]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "etpe2010",
+                "time": 1753744522
+            },
+            "proof": [
+                "21:3, fresh account, bazaar bargain, could hear him hitting 10 shots in a row, ragehacker"
+            ],
+            "steamid": "[U:1:1691990374]"
         }
     ]
 }
