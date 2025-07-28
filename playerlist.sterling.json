@@ -1848,6 +1848,19 @@
                 "F2P sniper cheater: game ban 1 day ago (lol), ragehacker"
             ],
             "steamid": "[U:1:1860143745]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Unknown Player",
+                "time": 1753744597
+            },
+            "proof": [
+                "walling/crit cheating/proj aimbot w direct hit (account deleted by Steam: added for documentation purposes)"
+            ],
+            "steamid": "[U:1:1922090283]"
         }
     ]
 }
