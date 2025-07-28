@@ -1806,6 +1806,21 @@
                 "URL history (ctrl+f 'medichvh' on steamhistory to verify): https://steamcommunity.com/id/medichvh/ 2023-10-30 13:58:08"
             ],
             "steamid": "[U:1:45105450]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "caramelised eggs",
+                "time": 1753693477
+            },
+            "proof": [
+                "Cheating on demo: fresh account made two months ago",
+                "Confidently walks to and crits players when necessary, etc.",
+                "*Likely*, but not certain, alt of chronic cheater 76561199577864062, others"
+            ],
+            "steamid": "[U:1:1894070537]"
         }
     ]
 }
