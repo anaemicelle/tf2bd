@@ -1152,7 +1152,7 @@
         },
         {
             "attributes": [
-                "cheater"
+                "suspicious"
             ],
             "last_seen": {
                 "player_name": "инᴇʟv ✇",
@@ -1461,7 +1461,8 @@
                 "obvious cheater on new account",
                 "He is also banned from fluffycat.gay (that is actually the server name): https://i.imgur.com/s3tCkQI.png",
                 "https://sourcebans.fluffycat.gay/index.php?p=banlist&searchText=STEAM_0%3A0%3A916712259&Submit=Search",
-                "Video evidence (submitted graciously by his own friend ^_^): https://youtu.be/jkXME1zCC-Y"
+                "Video evidence (submitted graciously by his own friend ^_^): https://youtu.be/jkXME1zCC-Y",
+                "Better video: https://www.youtube.com/watch?v=Mn9dhZs_y8U"
             ],
             "steamid": "[U:1:1833424518]"
         },
@@ -1559,7 +1560,7 @@
         },
         {
             "attributes": [
-                "cheater"
+                "suspicious"
             ],
             "last_seen": {
                 "player_name": "WePlayTheGame",
@@ -1743,7 +1744,7 @@
         },
         {
             "attributes": [
-                "cheater"
+                "suspicious"
             ],
             "last_seen": {
                 "player_name": "fn",
@@ -1795,15 +1796,14 @@
         },
         {
             "attributes": [
-                "cheater"
+                "suspicious"
             ],
             "last_seen": {
                 "player_name": "snoomy",
                 "time": 1753588638
             },
             "proof": [
-                "Cheater on (likely) purchased account; 16-year-old account (2009), but claims to be 20 years old",
-                "May or may not be healing other cheaters like 76561199793690246; will switch to sniper when losing",
+                "Cheater's accomplice to 76561199793690246; queues with and defends said cheater",
                 "URL history (ctrl+f 'medichvh' on steamhistory to verify): https://steamcommunity.com/id/medichvh/ 2023-10-30 13:58:08"
             ],
             "steamid": "[U:1:45105450]"
