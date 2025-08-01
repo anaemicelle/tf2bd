@@ -1875,6 +1875,19 @@
                 "f2p scout cheater: aimbot, esp, was like 23:1 then went negative when spectated"
             ],
             "steamid": "[U:1:40037774]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "trigger happy",
+                "time": 1754034308
+            },
+            "proof": [
+                "huntsman aimbotter on fresh account, real name is \"tomas curda\" (lmaobox creator)"
+            ],
+            "steamid": "[U:1:1916254175]"
         }
     ]
 }
