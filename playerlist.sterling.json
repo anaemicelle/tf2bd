@@ -1888,6 +1888,19 @@
                 "huntsman aimbotter on fresh account, real name is \"tomas curda\" (lmaobox creator)"
             ],
             "steamid": "[U:1:1916254175]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dewitch",
+                "time": 1754172281
+            },
+            "proof": [
+                "cheater (aimbot/esp) with recent rgl ban https://rgl.gg/Public/PlayerProfile?p=76561198404667893"
+            ],
+            "steamid": "[U:1:444402165]"
         }
     ]
 }
