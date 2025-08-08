@@ -1901,6 +1901,19 @@
                 "cheater (aimbot/esp) with recent rgl ban https://rgl.gg/Public/PlayerProfile?p=76561198404667893"
             ],
             "steamid": "[U:1:444402165]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "little chuddy",
+                "time": 1754627227
+            },
+            "proof": [
+                "obvious cheater on new account rage hacking"
+            ],
+            "steamid": "[U:1:1911924102]"
         }
     ]
 }
