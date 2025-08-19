@@ -1955,6 +1955,19 @@
                 "sniper cheater aiming through walls to headshot people immediately, also on a 2-month-old account"
             ],
             "steamid": "[U:1:1902545619]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "HHGREGG",
+                "time": 1755569809
+            },
+            "proof": [
+                "bhopping vac medic with esp"
+            ],
+            "steamid": "[U:1:1922796900]"
         }
     ]
 }
