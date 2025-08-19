@@ -1968,6 +1968,19 @@
                 "bhopping vac medic with esp"
             ],
             "steamid": "[U:1:1922796900]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sprooxie",
+                "time": 1755569831
+            },
+            "proof": [
+                "backtracking spy with bhop full rage etc"
+            ],
+            "steamid": "[U:1:1569174393]"
         }
     ]
 }
