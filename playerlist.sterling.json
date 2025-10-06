@@ -2034,6 +2034,20 @@
                 "False voting cheater; was aimbotting/walling on demo in my game"
             ],
             "steamid": "[U:1:834947054]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "banan",
+                "time": 1759785670
+            },
+            "proof": [
+                "Dustbowl-only (?) cheater; will switch to medic or other classes to obfuscate cheating",
+                "Proof video: https://www.youtube.com/watch?v=lyI8T92uO1E"
+            ],
+            "steamid": "[U:1:900901433]"
         }
     ]
 }
