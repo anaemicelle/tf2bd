@@ -2048,6 +2048,20 @@
                 "Proof video: https://www.youtube.com/watch?v=lyI8T92uO1E"
             ],
             "steamid": "[U:1:900901433]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Andrei",
+                "time": 1763226447
+            },
+            "proof": [
+                "Cheater, likely alt of 76561199382129166",
+                "Many cheaters like to rotate 'random' names with default/official Steam game avatars; keep an eye out"
+            ],
+            "steamid": "[U:1:1509748939]"
         }
     ]
 }
