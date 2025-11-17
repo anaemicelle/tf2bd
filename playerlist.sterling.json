@@ -2063,6 +2063,19 @@
                 "https://www.youtube.com/watch?v=Z8wqGUVCuYI no status in console tho"
             ],
             "steamid": "[U:1:1509748939]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "hi hello",
+                "time": 1763406699
+            },
+            "proof": [
+                "rage hacking alt"
+            ],
+            "steamid": "[U:1:812294792]"
         }
     ]
 }
