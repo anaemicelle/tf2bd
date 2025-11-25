@@ -2076,6 +2076,19 @@
                 "rage hacking alt"
             ],
             "steamid": "[U:1:812294792]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Zzz",
+                "time": 1764055616
+            },
+            "proof": [
+                "fresh account created to cheat"
+            ],
+            "steamid": "[U:1:1544254640]"
         }
     ]
 }
