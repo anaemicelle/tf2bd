@@ -2119,6 +2119,33 @@
                 "Be advised that though the non-smoking gun telltale signs of a cheater are all there, this is not definitive"
             ],
             "steamid": "[U:1:1055190585]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "⁠‌﻿‌‌⁠​‍﻿⁠Bleh​‌​",
+                "time": 1764635671
+            },
+            "proof": [
+                "Sniper closet cheater with nonetheless obvious aimbot; will headshot you while aiming several degrees away",
+                "Preaims through walls, the works"
+            ],
+            "steamid": "[U:1:295953114]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "⁠‌﻿‌‌⁠​‍﻿⁠ｍ​‌​",
+                "time": 1764635671
+            },
+            "proof": [
+                "Increasingly obvious cheating soldier: autostrafe and bhop, then spamming forced crits"
+            ],
+            "steamid": "[U:1:1268276814]"
         }
     ]
 }
