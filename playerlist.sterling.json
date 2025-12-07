@@ -2173,6 +2173,19 @@
                 "Cheater on fresh account, nothing new"
             ],
             "steamid": "[U:1:1871025666]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "⁠‌﻿‌‌⁠​‍﻿Magnus Carlsen",
+                "time": 1765145193
+            },
+            "proof": [
+                "brand new account created to cheat, it's premium so might as well mark it"
+            ],
+            "steamid": "[U:1:802151598]"
         }
     ]
 }
