@@ -2186,6 +2186,32 @@
                 "brand new account created to cheat, it's premium so might as well mark it"
             ],
             "steamid": "[U:1:802151598]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "og perma virgin",
+                "time": 1765221652
+            },
+            "proof": [
+                "Cheating scout with multiple bans; staring at people through walls then jumping out to force crit them, 3 crits in a row"
+            ],
+            "steamid": "[U:1:1569726395]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "GoofBall",
+                "time": 1765221652
+            },
+            "proof": [
+                "Cheating sniper, headshots while looking 20 degrees away, Charlie Kirk avatar (people with these/Floyd/etc are usually cheating"
+            ],
+            "steamid": "[U:1:802527178]"
         }
     ]
 }
