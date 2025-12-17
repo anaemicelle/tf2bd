@@ -2225,6 +2225,19 @@
                 "Cheater, frequently parties with other cheaters"
             ],
             "steamid": "[U:1:886614725]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "the1nonly",
+                "time": 1765935669
+            },
+            "proof": [
+                "Cheating scout with fakelag, hitting every shot, no gamesense, etc."
+            ],
+            "steamid": "[U:1:889902298]"
         }
     ]
 }
