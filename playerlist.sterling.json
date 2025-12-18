@@ -2264,6 +2264,19 @@
                 "Cheating sniper; rage aimbotting, started spinning, has server ban"
             ],
             "steamid": "[U:1:19295195]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "n",
+                "time": 1766085321
+            },
+            "proof": [
+                "aimbotting heavy with force crits"
+            ],
+            "steamid": "[U:1:871567414]"
         }
     ]
 }
