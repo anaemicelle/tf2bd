@@ -2238,6 +2238,32 @@
                 "Cheating scout with fakelag, hitting every shot, no gamesense, etc."
             ],
             "steamid": "[U:1:889902298]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Decoldest Crawford",
+                "time": 1766017903
+            },
+            "proof": [
+                "Cheating demo rage aimbotting stickies and forcing crits"
+            ],
+            "steamid": "[U:1:299404271]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "kennelbait",
+                "time": 1766017903
+            },
+            "proof": [
+                "Cheating sniper; rage aimbotting, started spinning, has server ban"
+            ],
+            "steamid": "[U:1:19295195]"
         }
     ]
 }
