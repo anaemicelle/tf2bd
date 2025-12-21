@@ -2277,6 +2277,37 @@
                 "aimbotting heavy with force crits"
             ],
             "steamid": "[U:1:871567414]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "man0plux",
+                "time": 1766346126
+            },
+            "proof": [
+                "Aimbotting soldier with farmed Casual Tier 8 on a 16-day-old account (https://i.imgur.com/wGfu5es.png)",
+                "What NOT to do when called out: when told to toggle off, he sent 4 straight messages in the chat and sent me a friend request",
+                "Also stacked with two other cheaters; not exactly a great way to indicate your legitimacy"
+            ],
+            "steamid": "[U:1:801397247]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Ammy",
+                "time": 1766346126
+            },
+            "proof": [
+                "Stacked with obvious cheater 76561198761662975",
+                "Purchased account: created in 2013 but has no SteamID.uk/SteamHistory results before mid-2025",
+                "Began unlocking badges himself in June 2025; has only year badge (which updates automatically) and beta card tester badge (these are often sold for this badge)",
+                "I would suggest throwing in a report, as he must receive a higher amount already simply thanks to cheating, which may trigger a review."
+            ],
+            "steamid": "[U:1:122344696]"
         }
     ]
 }
