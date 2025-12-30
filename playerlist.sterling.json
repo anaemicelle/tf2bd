@@ -2309,6 +2309,32 @@
                 "I would suggest throwing in a report, as he must receive a higher amount already simply thanks to cheating, so yours may trigger a review."
             ],
             "steamid": "[U:1:122344696]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Lu",
+                "time": 1767052834
+            },
+            "proof": [
+                "Cheater on purchased account"
+            ],
+            "steamid": "[U:1:304455]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Deezious Nuttus",
+                "time": 1767052834
+            },
+            "proof": [
+                "Cheating with direct hit, then switch to rage sniper"
+            ],
+            "steamid": "[U:1:345568364]"
         }
     ]
 }
