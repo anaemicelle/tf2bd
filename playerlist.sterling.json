@@ -2340,6 +2340,19 @@
                 "Cheating with direct hit, then switch to rage sniper"
             ],
             "steamid": "[U:1:345568364]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Billy Badass",
+                "time": 1767723504
+            },
+            "proof": [
+                "aimbotting heavy"
+            ],
+            "steamid": "[U:1:1632740380]"
         }
     ]
 }
