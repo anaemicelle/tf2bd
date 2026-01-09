@@ -2353,6 +2353,20 @@
                 "aimbotting heavy"
             ],
             "steamid": "[U:1:1632740380]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "released",
+                "time": 1767995148
+            },
+            "proof": [
+                "Autostrafing sniper with body-only machina triggerbot",
+                "Obviously farmed hours: 3205 hours on one-year-old account, only 75 in game"
+            ],
+            "steamid": "[U:1:1699386858]"
         }
     ]
 }
