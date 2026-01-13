@@ -2377,10 +2377,23 @@
                 "time": 1768160988
             },
             "proof": [
-                "Alt of 76561199577864062, 76561199636423432, others"
+                "Alt of 76561199577864062, 76561199636423432, others",
                 "Searches for his id64 reveal cheating bans in other games as well; not solely a TF2 cheater"
             ],
             "steamid": "[U:1:1874956478]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Engi.Gaming",
+                "time": 1768266533
+            },
+            "proof": [
+                "ambassador aimbot with 2 server bans 2 and 6 days ago, game ban 28 days ago"
+            ],
+            "steamid": "[U:1:1849420614]"
         }
     ]
 }
