@@ -2394,6 +2394,19 @@
                 "ambassador aimbot with 2 server bans 2 and 6 days ago, game ban 28 days ago"
             ],
             "steamid": "[U:1:1849420614]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "last_seen": {
+                "player_name": "Come Down to Us",
+                "time": 1768517857
+            },
+            "proof": [
+                "7:0 default demo with edgy name history piping people around walls immediately"
+            ],
+            "steamid": "[U:1:1706723406]"
         }
     ]
 }
