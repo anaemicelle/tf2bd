@@ -2407,6 +2407,19 @@
                 "stacked with cheater 76561198747989905"
             ],
             "steamid": "[U:1:794097677]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Unknown Player",
+                "time": 1768684750
+            },
+            "proof": [
+                "account already deleted by steam, marked to keep data set as accurate as possible"
+            ],
+            "steamid": "[U:1:787724177]"
         }
     ]
 }
