@@ -2420,6 +2420,19 @@
                 "account already deleted by steam, marked to keep data set as accurate as possible"
             ],
             "steamid": "[U:1:787724177]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "brother kisser",
+                "time": 1768787326
+            },
+            "proof": [
+                "rage sniper with game ban 50 days ago"
+            ],
+            "steamid": "[U:1:1874086798]"
         }
     ]
 }
