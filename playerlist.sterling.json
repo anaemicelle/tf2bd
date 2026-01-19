@@ -2433,6 +2433,19 @@
                 "rage sniper with game ban 50 days ago"
             ],
             "steamid": "[U:1:1874086798]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "M3GA",
+                "time": 1768789026
+            },
+            "proof": [
+                "aimbotting soldier"
+            ],
+            "steamid": "[U:1:270475532]"
         }
     ]
 }
