@@ -2446,6 +2446,19 @@
                 "aimbotting soldier"
             ],
             "steamid": "[U:1:270475532]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "CолнцепеKKK | MOMS EBOMS",
+                "time": 1768917450
+            },
+            "proof": [
+                "server-crashing cheater, interested to see when deleted"
+            ],
+            "steamid": "[U:1:1667278365]"
         }
     ]
 }
