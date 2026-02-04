@@ -2485,6 +2485,21 @@
                 "heavy aimbot and esp with 3 server bans"
             ],
             "steamid": "[U:1:946497895]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "and for my next trick",
+                "time": 1770246392
+            },
+            "proof": [
+                "Cheating sniper, throwing out accusations in chat right up until we found his RGL bans for 'cheating - multiple offences'",
+                "https://rgl.gg/Public/PlayerProfile?p=76561198397386490",
+                "Looks to be a purchased account: created 2017, no history until 2024"
+            ],
+            "steamid": "[U:1:437120762]"
         }
     ]
 }
